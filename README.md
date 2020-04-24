@@ -6,9 +6,9 @@ I've decided to collect as much data as possible and put it all in one place so 
 
 ---
 **Today (April 23, 2020), I'm releasing 2 tiny datasets of Arnab's debate topics.**
-- weekday_debates_06may2017_22april2020.csv
+- [weekday_debates_06may2017_22april2020.csv](weekday_debates_06may2017_22april2020.csv)
     - This has debate topics, hashtags, and dates from May 6th, 2017 to April 22nd, 2020. The urls are broken for most urls as it's also broken on their website.
-- sunday_debates_22april2020.csv
+- [sunday_debates_22april2020.csv](sunday_debates_22april2020.csv)
     - This has debate topics, and urls for the Sunday night show
 ---
 In the past, I have tried to do some things to highlight his modus operandi.
